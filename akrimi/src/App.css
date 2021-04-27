@@ -1,0 +1,19 @@
+Form{
+  background-color: aquamarine;
+  
+  margin: 300px;
+  padding: 150px;
+  margin-top: 120px;
+  border-radius: 50px;
+
+}
+html{
+  background-color: black;
+}
+#root{
+  background-color: black;
+}
+.btn-primary {
+  color: black;
+  background-color: red;
+}
